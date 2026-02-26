@@ -4,7 +4,7 @@
 #  Crafy's Orbital Strike
 
 A high-performance Minecraft Bedrock Addon that allows you to summon a orbital strike wherever you wish! You can craft them using very cheap materials or get them from the creative menu by typing "tnt" 
-![Custom](https://img.shields.io/badge/Menu-blueviolet)
+
 Shift + Right click opens the menu to customize the nukes!
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet)
