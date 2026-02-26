@@ -5,7 +5,7 @@
 
 A high-performance Minecraft Bedrock Addon that allows you to summon a orbital strike wherever you wish! You can craft them using very cheap materials or get them from the creative menu by typing "tnt" 
 
-Shift + Right click opens the menu to customize the nukes!
+![Controls](https://img.shields.io/badge/Controls-Shift%20%2B%20Right%20Click%20for%20Menu-orange)
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Minecraft%20Bedrock-green)
