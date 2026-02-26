@@ -3,7 +3,7 @@
 
 #  Crafy's Orbital Strike
 
-A high-performance Minecraft Bedrock Addon that allows you to summon a orbital strike wherever you wish!
+A high-performance Minecraft Bedrock Addon that allows you to summon a orbital strike wherever you wish! You can craft them using very cheap materials or get them from the creative menu by typing "tnt"
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Minecraft%20Bedrock-green)
